@@ -1,0 +1,11 @@
+Polish
+-Change of walkAshes particle frequency when running.
+-Small knockback to player when shooting.
+-Screen shake when volcano eruption occurs.
+-When an enemy is hit, he receives a small knockback according to the direction of the bullet and flicker
+-Different screens depending on how the game ended.
+-If a player is hit by an enemy, he can be hit 3 times, he is knocked back and gets damage (sound and flickers). While the player is flickering he has invincibility
+can't be killed...by enemies
+
+NOTE:Enemies may spawn in the map due problems with flixel overlap, but because of some hard code (using the "shape of the map) the probability that this 
+happens is relatively low.
