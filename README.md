@@ -1,6 +1,6 @@
-# FolkroreOfCuzcatlan_Flash
+# Folklore Of Cuzcatlan
 
-Assigment made for GAM1520-Rapid Prototyping course at Algonquin College Game Development program, made using ActionScript3 and the Flixel Library.
+Assigment made for GAM1520-Rapid Prototyping course at Algonquin College Game Development program, made using ActionScript 3 and the Flixel Library.
 
 ___________________________________________________
 
@@ -23,7 +23,7 @@ Lava kills you instantly.
 Enemies can hit you up to 3 times before you die.
 If the time runs out you lose.
 ___________________________________________________
-Game made using the Flixel Libar:
+Game made using the Flixel Library:
 http://flixel.org/
 
 Map made in DAME (Deadly Alien Map Editor)
