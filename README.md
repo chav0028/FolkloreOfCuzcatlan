@@ -1,6 +1,6 @@
 # Folklore Of Cuzcatlan
 
-Assigment made for GAM1520-Rapid Prototyping course at Algonquin College Game Development program, made using ActionScript 3 and the Flixel Library.
+Assignment made for GAM1520-Rapid Prototyping course at Algonquin College Game Development program, made using ActionScript 3 and the Flixel Library.
 
 ___________________________________________________
 
